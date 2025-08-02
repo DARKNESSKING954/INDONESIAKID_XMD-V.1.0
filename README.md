@@ -1,2 +1,151 @@
-# INDONESIAKID_XMD-V.1.0
-👋, Don't forget to star and fork my repository!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=LORD INDONESIAKID-XMD-V1.0.0" alt="LORD INDONESIA KID XMD" /></a>
+  </p>
+<a><img src='https://files.catbox.moe/q9dpr5.jpg'/></a>
+<p align="center">
+  <a href="https://github.com/DARKNESSKING954"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20DARKNESSKING954-FF7604.svg?style=big-square&logo=github" /></a>
+</p>
+
+<div align="center">
+  
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb4HUnJAjPXOWnELU82J)
+</div>
+
+ <p align="center"><img src="https://profile-counter.glitch.me/{LORD INDONESIA KID-XMD}/count.svg" alt="lordindonesiakid :: Visitor's Count" old_src="https://profile-counter.glitch.me/{indonesiakid}/count.svg" /></p>
+
+
+<p align="center">
+<a href="https://github.com/
+230/LORD INDONESIA KID-XMD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=indonesiakid&label=VIEWS&style=square&color=blue" />
+</p>
+</p> 
+
+<p align="center">
+  <a href="https://github.com/DARKNESSKING/LORD INDONESIA KID-XMD"><img title="Release" src="https://img.shields.io/badge/Release-%20v2.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
+
+
+***
+
+### 1. Fork This Repository
+
+Start by forking this repository to your own GitHub account. Click the button below to fork:
+
+  <a href="https://github.com/
+230/LORD INDONESIA KID-XMD/fork"><img title="LORD INDONESIA KID-XMD" src="https://img.shields.io/badge/FORK-YOUNGT,XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. Get Session ID 
+
+You will need a session ID to run the LORD INDONESIA KID=XMD. Click the button below to obtain your session ID.if any error in loading site try vpn:
+
+> **Get Pair Code (Session ID)**
+
+<a href='https://laka-md-web.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+---
+
+# Deployment
+
+You can deploy this bot for free on the following platforms:
+
+---
+
+### talkdrove (Free Deploy )  
+[![Deploy]
+
+---
+
+###  Heroku
+[![Deploy]
+
+---
+
+###  Replit
+[![Deploy to Replit]
+
+---
+
+
+###  Railway
+[![Deploy to Railway]
+---
+
+###  Koyeb
+[![Deploy to Koyeb]
+---
+
+
+###  Render
+[![Deploy to Render]
+
+---
+
+
+### GitHub Actions Workflows
+
+#### Node.js CI
+
+You can set up a continuous integration workflow by creating a `.github/workflows/nodejs.yml` file with the following content:
+
+```yaml
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
+
+
+## 🔗 LORD INDONESIA KID-XMD UPDATES
+
+---
+
+
+----
+
+## 🌐 WhatsApp Channel 
+
+---
+
+Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
+
+[![WhatsApp Channel](https://whatsapp.com/channel/0029Vb4HUnJAjPXOWnELU82J)
+
+---
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---
