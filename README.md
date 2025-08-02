@@ -32,7 +32,7 @@
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
   <a href="https://github.com/
-230/LORD INDONESIA KID-XMD/fork"><img title="LORD INDONESIA KID-XMD" src="https://img.shields.io/badge/FORK-YOUNGT,XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+230/LORD INDONESIA KID-XMD/fork"><img title="LORD INDONESIA KID-XMD" src="https://img.shields.io/badge/FORK-INDONESIA KID,XMD-h?color=badge&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
