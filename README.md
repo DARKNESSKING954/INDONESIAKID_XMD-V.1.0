@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=LORD INDONESIAKID-XMD-V1.0.0" alt="LORD INDONESIA KID XMD" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=" alt="INDONESIA KID XMD" /></a>
   </p>
 <a><img src='https://files.catbox.moe/q9dpr5.jpg'/></a>
 <p align="center">
